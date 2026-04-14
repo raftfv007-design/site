@@ -182,7 +182,7 @@ if (form && feedback) {
       }
 
       const whatsappMessage = [
-        "Ola, PONTO ZERO GYM!",
+        "Ola, Starkfit!",
         `Nome: ${name}`,
         `Email: ${email}`,
         selectedPlan ? `Plano de interesse: ${selectedPlan}` : "Plano de interesse: ainda nao definido",
